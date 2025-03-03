@@ -1,4 +1,4 @@
-# INTERACTIVE-QUIZ-APPLICATION
+# REAL-TIME-CHAT-APPLICATION
 
 *COMPANY* : CODTECH IT SOLUTIONS
 
@@ -12,6 +12,6 @@
 
  *MENTOR* : NEELA SANTOSH
 
-*DESCRIPTION* : Vscode using tool The Quiz Application allows users to answer multiple-choice questions and get instant feedback on their answers. The app provides a dynamic user interface with the ability to load new questions, track the score, and offer feedback immediately after each answer is submitted.
+*DESCRIPTION* : This project involves building a real-time chat application that allows users to send and receive messages instantly using WebSockets. The front-end is built using React.js to provide a dynamic and responsive user interface. The chat application will include features such as message history and real-time communication
 
-![Image](https://github.com/user-attachments/assets/e1ea9c3e-4964-4243-9e37-075f9ec38379)
+
